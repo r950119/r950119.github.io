@@ -11,8 +11,10 @@
 
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+### Consulting project
+<img width="741" alt="image" src="https://github.com/user-attachments/assets/41f55b9f-199c-4103-b1af-696c86b51bcd" />
+<img width="152" alt="image" src="https://github.com/user-attachments/assets/61cd2b5d-dfb0-44e6-82fd-8984af4c00c3" />
+
 
 ---
 [Project 3 Title](http://example.com/)
