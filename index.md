@@ -17,8 +17,8 @@
 
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+### Banking Chatbot
+![image](https://github.com/user-attachments/assets/a250ff0e-efe3-475a-9814-17a64028cd00)
 
 ---
 
