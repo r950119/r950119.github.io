@@ -5,7 +5,8 @@
 ### Category Name 1 
 
 [Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+![image](https://github.com/user-attachments/assets/fc12ab54-fe30-44f4-9401-58dad572ef77)
+
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
