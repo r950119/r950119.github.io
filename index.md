@@ -2,7 +2,7 @@
 
 ---
 
-### Category Name 1 
+### Sales Performance Analysis 
 
 [Project 1 Title](/sample_page)
 ![image](https://github.com/user-attachments/assets/fc12ab54-fe30-44f4-9401-58dad572ef77)
