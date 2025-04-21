@@ -14,6 +14,8 @@
 ### Consulting project
 <img width="741" alt="image" src="https://github.com/user-attachments/assets/41f55b9f-199c-4103-b1af-696c86b51bcd" />
 <img width="329" alt="image" src="https://github.com/user-attachments/assets/981fffbb-96e8-4829-aef1-7eaabe2bfc41" />
+<img width="644" alt="image" src="https://github.com/user-attachments/assets/4d577fdf-cdb9-46f2-914f-45346e4fc0bd" />
+
 
 
 ---
