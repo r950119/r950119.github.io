@@ -3,7 +3,7 @@
 ---
 
 ### Sales Performance Analysis 
-Tableau for sales performance visualization and root cause analysis
+Tableau for sales performance visualization and root cause analysis |
 I built an interactive dashboard to track key performance indicators (KPIs), analyze trends, and visualize product-level sales performance. The dashboard features multiple visualizations that highlight both overall trends and category-specific insights. It also supports root cause analysis by allowing users to drill down into the data and identify anomalies. Through this analysis, we discovered that rising costs significantly impacted profit margins in the Italian market.
 
 ![image](https://github.com/user-attachments/assets/fc12ab54-fe30-44f4-9401-58dad572ef77)
@@ -11,7 +11,7 @@ I built an interactive dashboard to track key performance indicators (KPIs), ana
 ---
 
 ### Retail Sales Trends Dashboard
-Tableau for sales data analyzing and visualization, with a focus on identifying sales trends across sub-categories, monthly order volumes, and regional performance
+Tableau for sales data analyzing and visualization, with a focus on identifying sales trends across sub-categories, monthly order volumes, and regional performance |
 I applied year-over-year comparisons between 2023 and 2024 to highlight top-performing product segments while visualizing geographic sales distribution to uncover regional differences. 
 This project showcases my ability in data cleaning, trend analysis, and dashboard design to drive data-informed decisions in the retail sector.
 
